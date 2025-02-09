@@ -4,16 +4,16 @@ This is a quiz application built using React and TailwindCSS. It allows users to
 
 ## Screenshots
 ### Home Page
-![Home Screenshot](../quizapp//quiz/src/assets/Screenshot%202025-02-09%20154015.png)
+![Home Screenshot](./quiz/src/assets/Screenshot%202025-02-09%20154015.png)
 
 ### Quiz in Progress
-![Quiz Screenshot](../quizapp//quiz/src/assets/Screenshot%202025-02-09%20154110.png)
+![Quiz Screenshot](./quiz/src/assets/Screenshot%202025-02-09%20154110.png)
 
 ### Quiz result
-![Quiz Screenshot](../quizapp//quiz/src/assets/Screenshot%202025-02-09%20154151.png)
+![Quiz Screenshot](./quiz/src/assets/Screenshot%202025-02-09%20154151.png)
 
 ## 🎥 Video Walkthrough
-[Watch Demo Video](../quizapp//quiz/src/assets/Untitled%20video%20-%20Made%20with%20Clipchamp.mp4)
+[Watch Demo Video](./quiz/src/assets/Untitled%20video%20-%20Made%20with%20Clipchamp.mp4)
 
 ## Features
     Multiple-choice questions  
