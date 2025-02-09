@@ -15,7 +15,7 @@ export const QuizProvider = ({ children }) => {
     // Fetch quiz data from API
     const fetchQuizData = async () => {
         try {
-            const response = await axios.get("http://localhost:5000/api/proxy");
+            const response = await axios.get("https://quizapp-backend-ak8g.onrender.com/api/proxy");
 
           const shuffleArray = (array) => {
             const shuffled = [...array];
